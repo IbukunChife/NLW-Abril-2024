@@ -2,7 +2,7 @@
 
 ### Requisitos funcionais
 
-[] o organizador deve poder cadastrar um novo evento;
+[] o organizador deve poder cadastrar um novo evento;</br>
 [] O organizador deve poder visualizar dados de um evento;
 [] O organizador deve poder visualizar a lista de participantes;
 [] O participante deve poder se inscrever em um evento:
@@ -19,4 +19,3 @@
 
 [] O check-in no evento será realizado através de um QRCode;
 
-## Documentação da API (Swagger)
