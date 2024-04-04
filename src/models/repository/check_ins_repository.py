@@ -10,7 +10,7 @@ class CheckInRepository:
         with db_connection_handler as database:
             try:
                 check_in = (
-                    CheckIns(AttendeeId=attendee_id)
+                    CheckIns(attendeeId=attendee_id)
                 )
                 database.session.add(check_in)
                 database.session.commit()
