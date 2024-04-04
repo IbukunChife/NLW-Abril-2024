@@ -2,7 +2,7 @@
 
 ### Requisitos funcionais
 
-[x] o organizador deve poder cadastrar um novo evento;</br>
+[x] O organizador deve poder cadastrar um novo evento;</br>
 [x] O organizador deve poder visualizar dados de um evento;</br>
 [x] O organizador deve poder visualizar a lista de participantes;</br>
 [x] O participante deve poder se inscrever em um evento:</br>
